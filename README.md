@@ -1,7 +1,7 @@
 # BTUGAN
 BattleTech Calculator for iOS
 
-I am working from the G.A.T.Or app for Android.
+Working from the G.A.T.Or app for Android.
 
 Also from the workability of MekBay.
 
